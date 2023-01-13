@@ -1,0 +1,57 @@
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: blueviolet;
+  border-color: none;
+}
+.btn-success{
+  background-color: blueviolet;
+}
+.badge-primary{
+  background-color: #5C3C60;
+  font-size: 20px;
+}
+
+h4, h5 {
+  color: #5C3C60;
+  font-size: 20px;
+}
+
+h2{
+  color: #5C3C60;
+}
+
+h3{
+  color: #5C3C60;
+}
+
+a:link 
+{ 
+ text-decoration:none;
+
+} 
+
+a{
+  color: none;
+}
+
+.DMP{
+ color: blueviolet;
+}
+.DMP2{
+  color: none;
+  text-decoration: none;
+ }
+
+ .bg-overlay {
+  background: url("images/pieuvre-bras.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 450px;
+  padding-top: 50px;
+}
+
+.display-6{
+  color:black;
+  font-size:10.em;
+}
